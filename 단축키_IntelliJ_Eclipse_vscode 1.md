@@ -1,5 +1,3 @@
-#shortcuts 
-
 ## vscode intellj eclipse 단축키 비교표
 ---
 
